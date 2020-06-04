@@ -64,6 +64,7 @@ MySQL version 5.6 or greater.
 This plugin is a FREE download.
 
 
-== Screenshots ==
+## How To Use
+
 ![screenshot](img/page1.PNG) ![screenshot](img/page2.PNG)
 ![screenshot](img/page3.PNG) ![screenshot](img/page4.PNG)
