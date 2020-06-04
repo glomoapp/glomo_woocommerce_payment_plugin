@@ -67,4 +67,8 @@ This plugin is a FREE download.
 ## How To Use
 
 ![screenshot](img/page1.PNG) ![screenshot](img/page2.PNG)
-![screenshot](img/page3.PNG) ![screenshot](img/page4.PNG)
+![screenshot](img/page3.PNG) 
+
+## Configuration
+
+![screenshot](img/page4.PNG)
