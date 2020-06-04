@@ -24,12 +24,15 @@ The plugin allows you to use Glomo Money payment gateway with the WooCommerce pl
 
 Pay with Glomo Money`
 
+## Download 
+```html
+https://github.com/glomoapp/glomo_woocommerce_payment_plugin/blob/master/wc_glomo.zip
+```
+
 ## Installation 
 first download the unzipped zip file and recover the wc_glomo.zip
 
-```html
-https://github.com/glomoapp/glomo_woocommerce_payment_plugin/archive/master.zip
-```
+
 In your WordPress Dashboard go to  »Plugins » -> »Add Plugin ».
 
 Search for »Glomo Money Woocommerce Gateway»
