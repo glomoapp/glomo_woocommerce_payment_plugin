@@ -71,7 +71,3 @@ This plugin is a FREE download.
 
 ![screenshot](img/page1.PNG) ![screenshot](img/page2.PNG)
 ![screenshot](img/page3.PNG) 
-
-## Configuration
-
-![screenshot](img/page4.PNG)
