@@ -1,14 +1,12 @@
 # Glomo Woocommerce Payment Plugin
 
-Contributors: Paki leonel
-Donate link: 
-Tags: payment, Mobile Payment, Payment Gateways
-Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: trunk
-Requires PHP: 5.4
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: Paki leonel
+- Donate link: 
+- Tags: payment, Mobile Payment, Payment Gateways
+- Requires at least: 4.0
+- Tested up to: 4.8
+- Stable tag: trunk
+- Requires PHP: 5.4
 
 ## Description
 
