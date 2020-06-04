@@ -63,6 +63,9 @@ MySQL version 5.6 or greater.
 
 This plugin is a FREE download.
 
+## Configuration
+
+![screenshot](img/page4.PNG)
 
 ## How To Use
 
