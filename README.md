@@ -64,14 +64,5 @@ This plugin is a FREE download.
 
 
 == Screenshots ==
-![screenshot](img/page1.PNG)
-![screenshot](img/page2.PNG)
-![screenshot](img/page3.PNG)
-![screenshot](img/page4.PNG)
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif).
-2. This is the second screen shot
-
-== Changelog ==
-
-
-== Upgrade Notice ==
+![screenshot](img/page1.PNG) ![screenshot](img/page2.PNG)
+![screenshot](img/page3.PNG) ![screenshot](img/page4.PNG)
