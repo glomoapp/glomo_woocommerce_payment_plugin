@@ -24,7 +24,7 @@ Pay with Glomo Money`
 
 ## Download 
 
-* Download [wc_glomo.zip](https://github.com/glomoapp/glomo_woocommerce_payment_plugin/blob/master/wc_glomo.zip)
+* Download [wc_glomo.zip](https://github.com/glomoapp/glomo_woocommerce_payment_plugin/raw/master/wc_glomo.zip)
 
 ## Installation 
 first download the unzipped zip file and recover the wc_glomo.zip
